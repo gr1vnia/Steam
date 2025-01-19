@@ -2,6 +2,7 @@ from PyQt5.QtWidgets import*
 from PyQt5.QtCore import Qt
 from PyQt5.QtGui import QPixmap
 from PyQt5 import QtGui
+from pygame import*
 
 App = QApplication([])
 Win = QWidget()
